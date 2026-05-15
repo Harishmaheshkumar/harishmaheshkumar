@@ -17,12 +17,12 @@
 ```yaml
 Name: Harish Maheshkumar
 Location: Tiruppur, Tamil Nadu 🇮🇳
-Education: M.Tech – AI Integrated (Ongoing)
+Education: Integrated  Masters of Technology - Computer Science and Engineering ( Artificial Intelligence and Machine Learning ) Integrated (Ongoing)
 Institution: Vellore Institute of Technology, Bhopal
-Role: AI/ML Developer & Full-Stack Enthusiast
+Role: AI/ML Engineer & Academic Technical  Mentor at Kalvium 
 Repositories: 29+ projects on GitHub
 Status: Open to opportunities ✅
-Stack: Python + React.js + LangChain + Gemini AI
+Stack: Python + Data Analytics +  Machine Learning + Deep Learning + LangChain + Anthropic AI Claude Code in Action + Agentic AI + Crew AI + RAG + Docker 
 Specialties: [RAG Systems, LLM Integration, Computer Vision, Data Science, AI Web Apps]
 ```
 
