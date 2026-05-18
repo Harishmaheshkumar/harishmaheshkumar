@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harish%20Maheshkumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Integrated%20M.Tech%20Student%20%7C%20VIT%20Bhopal%20%C2%B7%20Tiruppur%2C%20Tamil%20Nadu&descAlignY=55&descSize=14)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Harish+%F0%9F%91%8B;AI+%2B+ML+Developer+%7C+M.Tech+@+VIT+Bhopal;Building+AI-Powered+Apps+%26+LLM+Pipelines;RAG+Systems+%7C+Computer+Vision+%7C+Data+Science;Open+to+exciting+opportunities+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Harish+%F0%9F%91%8B;AI+%2B+ML+Developer+%7C+M.Tech+@+VIT+Bhopal;Building+AI-Powered+Apps+%26+LLM+Pipelines;Multi-Agent+Systems+%7C+RAG+%7C+Computer+Vision;Open+to+exciting+opportunities+%E2%9C%85)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harishmaheshkumar&style=flat-square&color=7C3AED&label=Profile+Views)
 &nbsp;
@@ -17,13 +17,14 @@
 ```yaml
 Name: Harish Maheshkumar
 Location: Tiruppur, Tamil Nadu 🇮🇳
-Education: Integrated  Masters of Technology - Computer Science and Engineering ( Artificial Intelligence and Machine Learning ) Integrated (Ongoing)
+Education: Integrated Masters of Technology - Computer Science and Engineering (AI & ML) (Ongoing)
 Institution: Vellore Institute of Technology, Bhopal
-Role: AI/ML Engineer & Academic Technical  Mentor at Kalvium 
+Role: AI/ML Engineer & Academic Technical Mentor at Kalvium
 Repositories: 29+ projects on GitHub
 Status: Open to opportunities ✅
-Stack: Python + Data Analytics +  Machine Learning + Deep Learning + LangChain + Anthropic AI Claude Code in Action + Agentic AI + Crew AI + RAG + Docker 
-Specialties: [RAG Systems, LLM Integration, Computer Vision, Data Science, AI Web Apps]
+Stack: Python + Data Analytics + Machine Learning + Deep Learning + LangChain +
+       Anthropic AI Claude Code + Agentic AI + CrewAI + RAG + FastAPI + Docker
+Specialties: [Multi-Agent Systems, RAG Pipelines, LLM Integration, Computer Vision, AI Web Apps]
 ```
 
 ---
@@ -32,11 +33,11 @@ Specialties: [RAG Systems, LLM Integration, Computer Vision, Data Science, AI We
 
 <div align="center">
 
-<a href="https://github.com/Harishmaheshkumar/Artify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishmaheshkumar&repo=Artify&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
+<a href="https://github.com/Harishmaheshkumar/Multi_Agent-Startup_Simulator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishmaheshkumar&repo=Multi_Agent-Startup_Simulator&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
 </a>
-<a href="https://github.com/Harishmaheshkumar/RAG_LLM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishmaheshkumar&repo=RAG_LLM&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
+<a href="https://github.com/Harishmaheshkumar/Self_Improving_RAG_Pipeline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishmaheshkumar&repo=Self_Improving_RAG_Pipeline&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
 </a>
 
 <br/><br/>
@@ -54,15 +55,25 @@ Specialties: [RAG Systems, LLM Integration, Computer Vision, Data Science, AI We
 
 ### 🛠️ Tech Stack
 
-**AI / ML & Data Science**
+**AI / ML & Agentic Systems**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLM-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-FF6B00?style=for-the-badge&logo=databricks&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Backend & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Frontend & Web**
 
@@ -93,8 +104,8 @@ Specialties: [RAG Systems, LLM Integration, Computer Vision, Data Science, AI We
 
 | Project | Description | Tech |
 |---|---|---|
-| **Artify** – AI Image Style Transformation | Converts user images into Ghibli, Pixar, Manga & 6+ art styles using Gemini AI | React, Gemini API, Vite |
-| **ChatPDF (RAG_LLM)** – Smart Document Assistant | Chat with your PDFs using RAG pipeline; semantic search + context-aware answers | Python, LangChain, FAISS, Gemini |
+| **Multi-Agent Startup Simulator** – AI Startup Ecosystem | Six specialized AI agents (CEO, Engineer, Investor, Legal, Marketer, PM) collaborating in real time to simulate a full startup environment with debates, memory, and REST API | CrewAI, FastAPI, Streamlit, Groq, Ollama, ChromaDB, FAISS, Docker |
+| **Self-Improving RAG Pipeline** – Adaptive Document Intelligence | A RAG system that self-evaluates and iteratively improves retrieval quality using feedback loops, re-ranking, and agentic query reformulation | Python, LangChain, FAISS, LLM, Agentic AI |
 | **AI-Therapist** – Mental Health AI Companion | AI-powered conversational therapist with empathetic NLP responses | Python, LLM |
 | **Dashboard-Power-BI** – Data Visualization Suite | Interactive business dashboards with data storytelling & insights | Power BI, Jupyter, Python |
 | **Prodigy-DS** – Data Science Portfolio | End-to-end data science tasks including EDA, ML models, and visual analytics | Python, Jupyter, scikit-learn |
