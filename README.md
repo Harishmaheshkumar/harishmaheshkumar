@@ -22,7 +22,7 @@ Institution: Vellore Institute of Technology, Bhopal
 Role: AI/ML Engineer & Academic Technical Mentor at Kalvium
 Repositories: 29+ projects on GitHub
 Status: Open to opportunities ✅
-Stack: Python + Data Analytics + Machine Learning + Deep Learning + LangChain +
+Stack: Python + SQL + Data Analytics + Machine Learning + Deep Learning + LangChain +
        Anthropic AI Claude Code + Agentic AI + CrewAI + RAG + FastAPI + Docker
 Specialties: [Multi-Agent Systems, RAG Pipelines, LLM Integration, Computer Vision, AI Web Apps]
 ```
